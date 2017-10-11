@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Dharmendra\\.android\\build-cache\\24af8ea452a1f556fb66241cb9995d162ba6772d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Dharmendra\\.android\\build-cache\\24af8ea452a1f556fb66241cb9995d162ba6772d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Dharmendra\\.android\\build-cache\\24af8ea452a1f556fb66241cb9995d162ba6772d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Dharmendra\\.android\\build-cache\\24af8ea452a1f556fb66241cb9995d162ba6772d\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

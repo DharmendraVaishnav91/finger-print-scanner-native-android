@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e49acd42dad3d67642eef5bd252f74e085807a8">
+        <dex dex="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2ebf63975610cab4ced21cb17b93d224818ed1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Finger print Demo and SDK\SecuGenUSBDist\app\libs\FDxSDKPro.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681d1bc64723299f21bca23ff9fa2ed5628e704d">
+        <dex dex="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\transforms\dex\debug\folders\1000\2\FDxSDKPro_2b9fdb076621ecc4d2a505cd85df817d89c2515c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4652b10fc70e96398881bbd174628c4607241f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Finger print Demo and SDK\SecuGenUSBDist\app\libs\FDxSDKProAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc14049ef8af8f336110b730c1dd6a2cd5998db7">
+        <dex dex="D:\Finger print Demo and SDK\SecuGenUSBDist\app\build\intermediates\transforms\dex\debug\folders\1000\2\FDxSDKProAndroid_f3f7cb2ef3a1c9a97175979975e9f5afc127f442\classes.dex" />
+    </item>
+
+</items>

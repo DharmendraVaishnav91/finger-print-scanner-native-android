@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ansi378_1_10_3_windows.ansi378",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\ansi378_1_10_3_windows.ansi378"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\raw2wsq_finger.raw",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\raw2wsq_finger.raw"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\finger_0_10_3.raw",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\finger_0_10_3.raw"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ansi378_2_10_3_windows.ansi378",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\ansi378_2_10_3_windows.ansi378"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ansi378_0_10_3_windows.ansi378",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\ansi378_0_10_3_windows.ansi378"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wsq2raw_finger.wsq",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\wsq2raw_finger.wsq"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\finger_2_10_3.raw",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\finger_2_10_3.raw"
+    },
+    {
+        "merged": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\res\\merged\\debug\\raw\\finger_1_10_3.raw",
+        "source": "D:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\src\\main\\res\\raw\\finger_1_10_3.raw"
+    }
+]

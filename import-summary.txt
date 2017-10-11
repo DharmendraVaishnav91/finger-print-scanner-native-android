@@ -1,0 +1,66 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\SecuGenUSBDist.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* README.txt
+* SecuGenUSBDist.iml
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\armeabi\libjnisgfdetect.so => app\src\main\jniLibs\armeabi\libjnisgfdetect.so
+* libs\armeabi\libjnisgfdetectfdu06.so => app\src\main\jniLibs\armeabi\libjnisgfdetectfdu06.so
+* libs\armeabi\libjnisgfdu03.so => app\src\main\jniLibs\armeabi\libjnisgfdu03.so
+* libs\armeabi\libjnisgfdu04.so => app\src\main\jniLibs\armeabi\libjnisgfdu04.so
+* libs\armeabi\libjnisgfdu05.so => app\src\main\jniLibs\armeabi\libjnisgfdu05.so
+* libs\armeabi\libjnisgfdu06.so => app\src\main\jniLibs\armeabi\libjnisgfdu06.so
+* libs\armeabi\libjnisgfplib.so => app\src\main\jniLibs\armeabi\libjnisgfplib.so
+* libs\armeabi\libjnisgnfiqlib.so => app\src\main\jniLibs\armeabi\libjnisgnfiqlib.so
+* libs\armeabi\libjnisgwsqlib.so => app\src\main\jniLibs\armeabi\libjnisgwsqlib.so
+* libs\armeabi\libsgfpamx.so => app\src\main\jniLibs\armeabi\libsgfpamx.so
+* libs\FDxSDKProAndroid.jar => app\libs\FDxSDKProAndroid.jar
+* libs\x86\libjnisgfdetect.so => app\src\main\jniLibs\x86\libjnisgfdetect.so
+* libs\x86\libjnisgfdetectfdu06.so => app\src\main\jniLibs\x86\libjnisgfdetectfdu06.so
+* libs\x86\libjnisgfdu03.so => app\src\main\jniLibs\x86\libjnisgfdu03.so
+* libs\x86\libjnisgfdu04.so => app\src\main\jniLibs\x86\libjnisgfdu04.so
+* libs\x86\libjnisgfdu05.so => app\src\main\jniLibs\x86\libjnisgfdu05.so
+* libs\x86\libjnisgfdu06.so => app\src\main\jniLibs\x86\libjnisgfdu06.so
+* libs\x86\libjnisgfplib.so => app\src\main\jniLibs\x86\libjnisgfplib.so
+* libs\x86\libjnisgnfiqlib.so => app\src\main\jniLibs\x86\libjnisgnfiqlib.so
+* libs\x86\libjnisgwsqlib.so => app\src\main\jniLibs\x86\libjnisgwsqlib.so
+* libs\x86\libsgfpamx.so => app\src\main\jniLibs\x86\libsgfpamx.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

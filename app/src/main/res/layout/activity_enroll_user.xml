@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.secugen.demo.EnrollUser">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_x="957dp"
+        android:layout_y="62dp"
+        android:text="@string/log"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/enrollButtonRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="465dp"
+        android:text="@string/register"
+        android:textSize="28sp" />
+
+
+
+
+    <ImageView
+        android:id="@+id/enrollImageViewRegister"
+        android:contentDescription="@string/fingerprint_register_image"
+        android:layout_width="130dp"
+        android:layout_height="150dp"
+        android:layout_x="14dp"
+        android:layout_y="310dp"
+        android:src="@android:drawable/picture_frame" />
+
+    <EditText
+        android:id="@+id/enrollEditLog"
+        android:layout_width="372dp"
+        android:layout_height="533dp"
+        android:layout_x="775dp"
+        android:layout_y="100dp"
+        android:inputType="none|textMultiLine" />
+
+    <ImageView
+        android:id="@+id/imageViewFingerprint"
+        android:contentDescription="@string/fingerprint_capture_image"
+        android:layout_width="208dp"
+        android:layout_height="240dp"
+        android:layout_x="13dp"
+        android:layout_y="61dp"
+        android:src="@android:drawable/picture_frame" />
+
+    <CheckBox
+        android:id="@+id/checkBoxMatched"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="214dp"
+        android:layout_y="266dp"
+        android:text="@string/cb_matched" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:layout_x="17dp"
+        android:layout_y="516dp"
+        android:text="@string/welcome"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:contentDescription="@string/secugen_device_image"
+        android:layout_width="155dp"
+        android:layout_height="155dp"
+        android:layout_x="448dp"
+        android:layout_y="8dp"
+        android:src="@drawable/hamster4" />
+</android.support.constraint.ConstraintLayout>

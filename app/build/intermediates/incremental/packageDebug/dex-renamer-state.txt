@@ -1,0 +1,7 @@
+#Wed Oct 11 13:12:49 IST 2017
+base.0=D\:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ebf63975610cab4ced21cb17b93d224818ed1d4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4652b10fc70e96398881bbd174628c4607241f3b\\classes.dex
+base.1=D\:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4652b10fc70e96398881bbd174628c4607241f3b
+file.0=D\:\\Finger print Demo and SDK\\SecuGenUSBDist\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ebf63975610cab4ced21cb17b93d224818ed1d4\\classes.dex
